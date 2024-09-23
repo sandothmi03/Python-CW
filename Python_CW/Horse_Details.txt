@@ -1,0 +1,41 @@
+Horse ID,Horse Name,Jockey Name,Age,Breed,Wins and Runs,Group
+Horse ID: 1, Horse Name: Buwi, Jockey Name: Menya, Age: 5, Breed: Appaloosa, Wins and Runs: (10, 15), Group: A
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 2, Horse Name: Papi, Jockey Name: John, Age: 10, Breed: Appaloosa, Wins and Runs: (16, 20), Group: B
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 3, Horse Name: Bebe, Jockey Name: Ken, Age: 6, Breed: Akhal Teke, Wins and Runs: (26, 30), Group: C
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 4, Horse Name: Tin, Jockey Name: Jeron, Age: 10, Breed: Paint Horse, Wins and Runs: (10, 12), Group: D
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 5, Horse Name: Ashe, Jockey Name: Nikkey, Age: 20, Breed: Akhal Teke, Wins and Runs: (51, 63), Group: A
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 6, Horse Name: Luna, Jockey Name: Vinz, Age: 8, Breed: Appaloosa, Wins and Runs: (5, 9), Group: C
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 7, Horse Name: Peni, Jockey Name: Edward, Age: 15, Breed: Belgian Draught, Wins and Runs: (15, 20), Group: D
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 8, Horse Name: Gims, Jockey Name: Anna, Age: 10, Breed: Paint Horse, Wins and Runs: (45, 50), Group: B
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 9, Horse Name: Kin, Jockey Name: Robert, Age: 7, Breed: Akhal Teke, Wins and Runs: (6, 10), Group: A
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 10, Horse Name: Min, Jockey Name: Kim Soo, Age: 9, Breed: Andalusian, Wins and Runs: (23, 30), Group: B
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 33, Horse Name: Tom, Jockey Name: Jerry, Age: 20, Breed: Friesian, Wins and Runs: (29, 40), Group: C
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 45, Horse Name: Zeep, Jockey Name: Senal, Age: 10, Breed: Andalusian, Wins and Runs: (20, 23), Group: D
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 102, Horse Name: Yin, Jockey Name: Kim Nam, Age: 14, Breed: Paint Horse, Wins and Runs: (23, 30), Group: D
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 110, Horse Name: Chen, Jockey Name: Shin Cham, Age: 14, Breed: Appaloosa, Wins and Runs: (45, 50), Group: B
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 123, Horse Name: Jen, Jockey Name: Pawl, Age: 12, Breed: Appaloosa, Wins and Runs: (50, 70), Group: C
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 125, Horse Name: Den, Jockey Name: Krish, Age: 12, Breed: Paint Horse, Wins and Runs: (42, 52), Group: C
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 145, Horse Name: Dud, Jockey Name: Parapiyo, Age: 6, Breed: Andalusian, Wins and Runs: (23, 26), Group: A
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 156, Horse Name: Mi Mi, Jockey Name: Ko MiRan, Age: 23, Breed: Akhal Teke, Wins and Runs: (26, 30), Group: B
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 289, Horse Name: Jin, Jockey Name: Jeon JungKook, Age: 20, Breed: Paint Horse, Wins and Runs: (80, 90), Group: A
+------------------------------------------------------------------------------------------------------------------------
+Horse ID: 568, Horse Name: NimNim, Jockey Name: Kim JaeMin, Age: 12, Breed: Budyonny, Wins and Runs: (45, 50), Group: D
+------------------------------------------------------------------------------------------------------------------------
